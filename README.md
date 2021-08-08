@@ -1,4 +1,5 @@
 ANALYSIS OF 120 YEARS OF OLYMPICS
+
 The dashboard focuses on insights generated while analyzing the history of the Olympic tournament in 120 years with the focus majorly on the continuous closure of the gender gap in the tournament.
 
 It suffices to state that women's empowerment is gradually having a groundswell in all notable spheres of sports. From zero appearance to a significant 27.5% appearance rate is commendable.
